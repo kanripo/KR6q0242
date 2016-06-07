@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:48:28.415029
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 三根坐禪說
 #+PROPERTY: CBETA_ID G084n2086
 #+PROPERTY: ID KR6q0242
 #+PROPERTY: SOURCE Fojiao Canon Vol. 84, No. 2086
 #+PROPERTY: VOL 084
 #+PROPERTY: BASEEDITION G
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0242_G_001-0444a> 
 #+PROPERTY: JUAN 1
-
- 三根坐禪說¶
+三根坐禪說¶
 總持圓明國師瑩山撰¶
 
 上根坐禪者。不覺諸佛出世之事。不悟佛祖不傳之妙。飢來喫飯困來打眠。非指萬象森羅以為自己。覺不覺俱不存。¶
